@@ -1,28 +1,31 @@
 body {
-	background-color: #000000;
+	background-color: #303030;
 	color: #ff5000;
 }
 
 a:href
 {
 	color: #ffa000;
-	background-color: #202020;
+	background-color: #303030;
 }
 
 
 a:link
 {
 	color: #ff5000;
+	background-color: #303030;
 }
 
 a:visited
 {
 	color: #ff3200;
+	background-color: #303030;
 }
 
 a:hover
 {
 	background-color: #202020;
+	background-color: #303030;
 }
 
 
